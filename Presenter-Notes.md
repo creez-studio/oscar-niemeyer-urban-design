@@ -1,83 +1,179 @@
 # Oscar Niemeyer / Presenter notes
 
-Irfan Nazar · BJK22AR007
+Irfan Nazar, BJK22AR007. ART 501 Urban Design, Module V. Revised 14 October 2026.
 
-## 01. OSCAR NIEMEYER
 
-Introduce the subject through public architecture. The main appraisal concerns the National Congress in Brasília, with comparative cases in Pampulha, Niterói and Ibirapuera. The syllabus focus is ART 501 Module V, CO4 and CO5: reading urban layers and critically appraising an urban public project for S9 design studio. Suggested delivery: about 18–22 minutes. Photographs document real buildings. Interactive diagrams explain relationships and are labelled as schematics.
+## 01 / OSCAR NIEMEYER
 
-## 02. A building participates in a larger public space
+Irfan Nazar, BJK22AR007. ART 501 Urban Design, Module V. This presentation develops the Oscar Niemeyer section of UD-M5-P2: spatial philosophy, methodological toolkit, Three Powers Square and Congress, and the four-building Pampulha ensemble. Planalto, the Supreme Court, Cathedral and Itamaraty give the Brasília buildings their context. Discuss how architectural form shapes public space, then critically appraise everyday use. Allow about 25 minutes, or use the menu to select cases for a shorter talk.
 
-The syllabus, supplied PDF pp.2–6, connects the public-project case study to the different urban-design dimensions. Morphology concerns the arrangement of buildings and spaces. Perception concerns orientation and the sequence of experience. Social reading asks who can use a space and under what conditions. Visual reading examines composition. Functional reading asks how programme and movement work. The dimensions overlap. A good case study connects them rather than assigning a building a score based on appearance.
+Sources: [Pritzker Prize, Oscar Niemeyer, 1988 laureate](https://www.pritzkerprize.com/laureates/1988-niemeyer), [Chamber of Deputies, National Congress Palace](https://www2.camara.leg.br/a-camara/visiteacamara/palacio-do-congresso-nacional)
 
-## 03. Oscar Niemeyer 1907–2012
 
-Keep the biography short so the urban appraisal remains central. Niemeyer expanded modernism’s structural and spatial experiments through sculptural concrete forms. The Pritzker Prize honoured Niemeyer and Gordon Bunshaft in 1988. Brasília brought Niemeyer’s civic buildings into a city plan by Lúcio Costa. Later international commissions demonstrate the reach of his career. The interpretation about urban image will be tested through actual project relationships on the following slides.
+## 02 / A building participates in a larger public space
 
-## 04. Concrete as a spatial and sculptural material
+Use the five dimensions to organise the case study: morphological, perceptual, social, visual and functional. ART 501 Module V calls for appraisal of public projects with relevance to S9 studio, CO4 and CO5. The document supplies the selected architect and cases. These five questions help connect that material to the syllabus. The lens selector explains each dimension.
 
-The Cathedral illustrates the relationship between structure and image. It also invites a spatial reading rather than a façade-only description. A photograph can support visual analysis, but thermal performance, inclusive access and the actual visitor sequence require more detailed evidence. Concrete permits many forms, yet those forms rely on structural engineering, construction and maintenance. Avoid treating every Niemeyer curve as a thin shell or assuming that a shape alone guarantees structural efficiency.
 
-## 05. Several forms of public architecture
+## 03 / Oscar Niemeyer 1907–2012
 
-These examples establish a range rather than an exhaustive catalogue. Pampulha’s ensemble began with a 1940 garden-city commission. The Ibirapuera park opened in 1954, with architecture by Niemeyer and collaborators. Brasília’s Congress opened in 1960. The MAC opened in 1996. Public architecture includes civic institutions, cultural buildings and the spaces that connect them. The selected comparisons focus on open space, approach and opportunities for public use.
+Niemeyer’s dates are 1907–2012. His modernism developed through collaboration, including Costa and Le Corbusier. President Juscelino Kubitschek appointed him chief architect of Brasília in 1956. The 1988 Pritzker Prize honoured both Niemeyer and Gordon Bunshaft. Pampulha was an early major independent commission, but its landscape, engineering and art were collaborative. Avoid describing the ensemble as a solo accomplishment.
 
-## 06. The city plan and the civic buildings
+Sources: [Pritzker Prize, Oscar Niemeyer, 1988 laureate](https://www.pritzkerprize.com/laureates/1988-niemeyer), [Belo Horizonte, Pampulha inauguration in 1943](https://portalbelohorizonte.com.br/pampulha/patrimonio-mundial/historia/pampulha-1943)
 
-Do not credit Niemeyer alone with Brasília’s master plan. Costa’s Plano Piloto and Niemeyer’s architecture work together at the monumental scale. The national-capital project also depended on a broad technical and labour network. Urban performance follows from planning, infrastructure, policy and management as well as architecture. Keep that distinction when discussing transport and metropolitan inequality.
 
-## 07. Axes organise the capital’s image
+## 04 / Monumental modernism as a civic setting
 
-UNESCO describes a monumental axis crossed by a curved transport axis and identifies monumental, residential, social or central, and bucolic scales. This drawing preserves the basic relational idea without claiming survey accuracy. The horizontal axis is a teaching convention. Do not use it to measure walking distances or the footprint of individual buildings. This establishes the setting for the Congress appraisal. The diagram is original explanatory work.
+The document describes monumental modernism, civic axes and sculptural politics. Explain these terms using specific spatial evidence. Niemeyer extended the structural and spatial experiments of modernism through expressive concrete. He did not simply abandon function or engineering. Civic-stage language is an interpretation of the capital’s composition. Assess it alongside programme, movement and public use.
 
-## 08. National Congress Brasília, 1960
+Sources: [Pritzker Prize, Oscar Niemeyer, 1988 laureate](https://www.pritzkerprize.com/laureates/1988-niemeyer), [UNESCO, Brasília World Heritage](https://whc.unesco.org/en/list/445/), [Belo Horizonte, Pampulha inauguration in 1943](https://portalbelohorizonte.com.br/pampulha/patrimonio-mundial/historia/pampulha-1943)
+
+
+## 05 / Three ways of shaping the space between buildings
+
+The DOCX identifies the Plano Piloto hierarchy, negative space and the plasticity of concrete. Attribute the master plan to Costa and the principal civic buildings to Niemeyer. Negative space means the unbuilt ground between built forms. Concrete can make shells, frames and columns. The structures in this presentation should not all be described as thin shells or hyperbolic paraboloids. Engineers and construction teams realise the forms.
+
+Sources: [UNESCO, Brasília World Heritage](https://whc.unesco.org/en/list/445/), [Pritzker Prize, Oscar Niemeyer, 1988 laureate](https://www.pritzkerprize.com/laureates/1988-niemeyer), [Chamber of Deputies, National Congress Palace](https://www2.camara.leg.br/a-camara/visiteacamara/palacio-do-congresso-nacional)
+
+
+## 06 / The city plan and the civic buildings
+
+Brasília developed as a capital project from 1956 to 1960. Lúcio Costa designed the Plano Piloto. Oscar Niemeyer designed its principal civic buildings. Kubitschek’s government commissioned the capital, with contributions from engineers, artists, landscape designers and construction workers. City-wide transport outcomes and social conditions also reflect policy and infrastructure. Building authorship alone cannot explain them.
+
+Sources: [UNESCO, Brasília World Heritage](https://whc.unesco.org/en/list/445/), [Pritzker Prize, Oscar Niemeyer, 1988 laureate](https://www.pritzkerprize.com/laureates/1988-niemeyer), [Federal Senate, P20 venue: Brasília and Congress](https://www25.senado.leg.br/web/p20/local-reuniao)
+
+
+## 07 / Axes organise the capital’s image
+
+Costa’s plan has a monumental east-west axis and a curved transport axis supporting north and south residential wings. Superquadras form neighbourhood units. Ministries occupy the Esplanade leading toward Congress and Three Powers Square. Diplomatic buildings such as Itamaraty belong to this civic sequence, but the embassy sectors should not all be placed on the monumental spine. The DOCX sketch is a relational hierarchy, so the presentation uses a labelled schematic rather than a measured plan.
+
+Sources: [UNESCO, Brasília World Heritage](https://whc.unesco.org/en/list/445/)
+
+
+## 08 / Praça dos Três Poderes
+
+Praça dos Três Poderes translates as Three Powers Square. It lies at the eastern end of the Monumental Axis. Congress, Planalto and the Supreme Federal Court represent the legislature, executive and judiciary. The diagram shows the relationship rather than an exact equilateral geometry. The document’s flag claim needs correction: the flag is replaced, not the same cloth continuously flying since 1960. A Ministry of Defence account describes a monthly ceremony and a flag up to 40 kg, rather than the document’s 90 kg. The mast is a later addition, not evidence of Niemeyer’s 1960 design. These peripheral details should not dominate the appraisal.
+
+Sources: [IPHAN, Three Powers Square](https://www.gov.br/iphan/pt-br/assuntos/praca-dos-tres-poderes), [Chamber of Deputies, National Congress Palace](https://www2.camara.leg.br/a-camara/visiteacamara/palacio-do-congresso-nacional), [Casa Civil, Planalto Palace](https://www.gov.br/casacivil/pt-br/assuntos/centrais-de-conteudo/imagens/destaques-area-de-imprensa/fotos-do-palacio-do-planalto), [Supreme Federal Court, move to Brasília](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=124568), [Ministry of Defence, national flag ceremony](https://www.gov.br/defesa/pt-br/ajuste/troca-da-bandeira-ocorre-sem-a-presenca-do-publico)
+
+
+## 09 / National Congress Brasília, 1960
 
 Begin the detailed case with context, programme, location and date. The official institutional sources place Congress within the Three Powers composition and identify its importance to the Esplanade. The photograph reveals the foreground, roads and scale relationships. It provides visual evidence rather than an activity survey. The case will now address built form, public approach, perception and everyday use.
 
-## 09. Four elements, one civic silhouette
+Sources: [Chamber of Deputies, National Congress Palace](https://www2.camara.leg.br/a-camara/visiteacamara/palacio-do-congresso-nacional), [Federal Senate, P20 venue: Brasília and Congress](https://www25.senado.leg.br/web/p20/local-reuniao)
 
-The convex dome is the Senate. The upturned or concave bowl is the Chamber of Deputies. The twin towers accommodate offices. The official Chamber page identifies two 28-storey towers. The contrasting forms distinguish the legislature’s components in the city’s image. This diagram explains their composition and should not be mistaken for a measured elevation, an exact chamber floor plan or a shell structural analysis.
 
-## 10. Built form and open ground
+## 10 / Four elements, one civic silhouette
+
+The official legislature identifies two cupolas and twin 28-storey towers. The convex dome covers the Senate and the concave bowl the Chamber of Deputies. Office accommodation forms the vertical counterpoint to the platform. The common base gathers the volumes. Introspection and openness are symbolic readings in the DOCX, not measured evidence about parliamentary operation or public access. Select each component to explain its actual programme.
+
+Sources: [Chamber of Deputies, National Congress Palace](https://www2.camara.leg.br/a-camara/visiteacamara/palacio-do-congresso-nacional), [UNESCO, Brasília World Heritage](https://whc.unesco.org/en/list/445/), [Federal Senate, P20 venue: Brasília and Congress](https://www25.senado.leg.br/web/p20/local-reuniao)
+
+
+## 11 / Built form and open ground
 
 Use the layers to make the figure-ground relationship visible. Dark shapes are institutions. The pale ground represents open space. Roads and the dotted approach are analytical layers. Their simplified arrangement cannot establish crossing locations or accessibility. The appraisal concerns the balance between a freestanding monument and the spaces around it. The question about usable edges needs observational testing at ground level.
 
-## 11. An approach changes what the visitor reads
+Sources: [Chamber of Deputies, National Congress Palace](https://www2.camara.leg.br/a-camara/visiteacamara/palacio-do-congresso-nacional), [Federal Senate, P20 venue: Brasília and Congress](https://www25.senado.leg.br/web/p20/local-reuniao)
+
+
+## 12 / An approach changes what the visitor reads
 
 This interaction develops perceptual and functional dimensions together. From a distance, the building is recognisable. On approach, the visitor encounters the practical conditions of movement. At the threshold, the institution’s access arrangements matter. These are questions for site work, not a verified description of every current visitor route. Do not present the scrubber percentage as a measured distance. The animation simply stages the questions in sequence.
 
-## 12. Civic visibility and everyday usability
+Sources: [Chamber of Deputies, National Congress Palace](https://www2.camara.leg.br/a-camara/visiteacamara/palacio-do-congresso-nacional), [Federal Senate, P20 venue: Brasília and Congress](https://www25.senado.leg.br/web/p20/local-reuniao)
 
-This is an appraisal rather than a visitor count or an access audit. Institutional symbolism does not prove universal access. Conversely, monumental scale should not automatically be treated as evidence of a failed public space. Use evidence at different times and for different users. Relevant questions include older people, children, people with disabilities, workers and occasional visitors. Heritage value and everyday performance can coexist as priorities.
 
-## 13. The Cathedral’s spatial experience
+## 13 / Civic visibility and everyday usability
 
-The Cathedral provides a contrasting civic or religious public experience within Brasília. It demonstrates a change from distant silhouette to enclosed space. The 1970 completion date follows the Pritzker selected works list. The general statement about sequence is analysis. Avoid repeating structural counts or specific access dimensions unless you have measured drawings. The lesson is relevant to a public studio project whose entrance must be understandable from outside and usable at close range.
+The document critiques monumental distance, lack of shade and a car-oriented setting. Present these as an assessment of spatial conditions, not an invented survey of all users. Photographs and diagrams show broad open ground and surrounding roads. IPHAN’s restoration information identifies public concerns around accessibility, safety and signage. Fieldwork should test crossings, shade, seating, transit arrival and institutional entry. The strong civic image and the practical quality of a visit need separate evidence.
 
-## 14. Pampulha Belo Horizonte
+Sources: [UNESCO, Brasília World Heritage](https://whc.unesco.org/en/list/445/), [IPHAN, Three Powers Square](https://www.gov.br/iphan/pt-br/assuntos/praca-dos-tres-poderes), [Chamber of Deputies, National Congress Palace](https://www2.camara.leg.br/a-camara/visiteacamara/palacio-do-congresso-nacional)
 
-UNESCO documents four buildings around an artificial lake, designed by Niemeyer with engineer Joaquim Cardozo and artists including Portinari. Burle Marx’s gardens and walkable spaces reinforce the dialogue with the landscape. This comparison shifts the discussion from the capital’s civic axis to an ensemble within a garden-city context. The site received World Heritage inscription in 2016. The photograph shows one part of the ensemble. It does not establish the accessibility or present-day water quality of the entire lake.
 
-## 15. MAC Niterói 1996
+## 14 / Palácio do Planalto
 
-Municipal tourism records the opening on 2 September 1996. The Brazilian Institute of Museums describes the plaza, reflecting pool, red ramp and galleries. Avoid equating a ramp’s visual presence with accessibility compliance. The shape depends on structural collaboration. Niemeyer’s own discussion published by Pritzker explains how the central-support idea evolved to include additional functions. The project’s public role also connects to a larger waterfront cultural route, but this presentation appraises the museum rather than claiming a comprehensive assessment of that route.
+Planalto is a workplace, not the president’s official residence. Casa Civil records its inauguration on 21 April 1960. Niemeyer’s external columns separate the structural silhouette from the glazing. Read the building as part of the square, while recognising that a government workplace has controlled entry. The photograph illustrates the supports and reflections, not a current public-access audit.
 
-## 16. Ibirapuera São Paulo, 1954
+Sources: [Casa Civil, Planalto Palace](https://www.gov.br/casacivil/pt-br/assuntos/centrais-de-conteudo/imagens/destaques-area-de-imprensa/fotos-do-palacio-do-planalto), [IPHAN, Three Powers Square](https://www.gov.br/iphan/pt-br/assuntos/praca-dos-tres-poderes), [Pritzker Prize, Oscar Niemeyer, 1988 laureate](https://www.pritzkerprize.com/laureates/1988-niemeyer)
 
-The park opened on 21 August 1954 according to the municipality. Credit the architectural team and the landscape authorship separately. Do not attribute the entire park landscape to Niemeyer or automatically to Burle Marx. The municipality’s 2012 account of structural repair supports the point about maintenance. The historical photograph provides evidence of the canopy’s spatial character, not proof of current activities, condition or unrestricted public access.
 
-## 17. Four public-space relationships
+## 15 / Supremo Tribunal Federal
 
-Use this comparison to explain transferable design principles without copying shapes. The projects offer different spatial relationships: monument, ensemble, coastal landmark and covered connector. Their public value cannot be reduced to a common form language. Each needs an assessment appropriate to programme, setting and users. The questions are a research agenda for fieldwork rather than claims that all four spaces perform equally well.
+The Supreme Federal Court moved to Brasília on 21 April 1960. Its official history credits the complex to Oscar Niemeyer and the sculpture A Justiça to Alfredo Ceschiatti. The sculptural supports and glazed volume create an institutional frontage rather than a continuous commercial street edge. Do not infer public entry arrangements from visual transparency.
 
-## 18. A strong urban image needs a usable setting
+Sources: [Supreme Federal Court, move to Brasília](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=124568), [IPHAN, Three Powers Square](https://www.gov.br/iphan/pt-br/assuntos/praca-dos-tres-poderes)
 
-The critique should be specific and proportional. UNESCO identifies transport pressure and social-spatial segregation in the Brasília metropolitan context. That evidence concerns the larger urban system, not a controlled test of the Congress design. The challenges of exposed space and monumental distance are design questions that require local observation. Distinguish the architectural achievement from city-wide policy and infrastructure. Structural maintenance is a lifecycle responsibility demonstrated by the Ibirapuera conservation record.
 
-## 19. Lessons for an urban public project
+## 16 / Cathedral of Brasília
 
-This conclusion addresses CO4 and CO5 and the Module V task of appraising a public architecture project for S9 design studio. Useful methods from Module IV include imageability, permeability and visual analysis, figure-ground and activity mapping, and a pedestrian catchment study. The checklist is a teaching aid, not a claim that the syllabus prescribes these exact five items. Site documentation should include a method, a date and a limitation. Do not insert fabricated field counts or measured distances.
+The Pritzker selected works date the Cathedral to 1970. The 16 supports are documented by UNESCO. The DOCX introduces it with the 1956–1960 capital project, but the completed building should not be dated 1960. Avoid treating its crown-like image as a literal construction system. Analyse the sequence and light alongside the landmark form.
 
-## 20. Sources and image credits
+Sources: [Pritzker Prize, Oscar Niemeyer, 1988 laureate](https://www.pritzkerprize.com/laureates/1988-niemeyer), [UNESCO, Brasília World Heritage](https://whc.unesco.org/en/list/445/)
 
-The factual references prioritise the Pritzker Prize, UNESCO, the Brazilian legislature, municipal institutions and the Brazilian Institute of Museums. The supplied syllabus provides the course requirements. Methodological further reading named in the syllabus includes Kevin Lynch, The Image of the City (1960), Gordon Cullen, The Concise Townscape (1961), and Carmona and colleagues, Public Places Urban Spaces (2010). These are further reading, not a claim that this presentation quotes or reproduces those books. Image resizing, format conversion and layout cropping preserve the source attribution. Montserrat is distributed under the SIL Open Font License. Diagrams and appraisal text are teaching material rather than a measured site survey.
+
+## 17 / Palácio Itamaraty
+
+The Ministry of Foreign Affairs credits Niemeyer and records inauguration in 1970. The floating description in the DOCX is a visual reading of water and reflection, not literal flotation. Itamaraty contains works by Brazilian and naturalised Brazilian artists and used national materials. It is a diplomatic building on the Esplanade, not one of the three institutions naming Three Powers Square.
+
+Sources: [Ministry of Foreign Affairs, Itamaraty Palace](https://www.gov.br/mre/en/subjects/itamaraty-palace), [UNESCO, Brasília World Heritage](https://whc.unesco.org/en/list/445/)
+
+
+## 18 / Pampulha Belo Horizonte
+
+The DOCX identifies Pampulha as an early major urban commission. UNESCO dates its conception to 1940 and Belo Horizonte records the ensemble inauguration in 1943. Distinguish commission, construction and later heritage recognition. Kubitschek was mayor of Belo Horizonte when he commissioned the ensemble, before becoming president. Four core buildings form the UNESCO ensemble: casino, ballroom, yacht club and church. It was collaborative, with landscape by Roberto Burle Marx and integrated art. Public heritage status does not mean unrestricted entry to every building.
+
+Sources: [UNESCO, Pampulha Modern Ensemble](https://whc.unesco.org/en/list/1493/), [Belo Horizonte, Pampulha inauguration in 1943](https://portalbelohorizonte.com.br/pampulha/patrimonio-mundial/historia/pampulha-1943)
+
+
+## 19 / Casino / Pampulha Art Museum
+
+The municipality describes a glazed rectangular form and connecting ramps, correcting the impression that the casino is only a curved building. Its museum history records a casino operating from 1943 to 1946 and creation of the art museum in 1957. The programme shift shows adaptation of a public landmark. The image is documentary photography and does not establish current opening or conservation conditions.
+
+Sources: [Belo Horizonte, Pampulha Art Museum](https://prefeitura.pbh.gov.br/noticias/conheca-o-museu-de-arte-da-pampulha), [Belo Horizonte, Pampulha inauguration in 1943](https://portalbelohorizonte.com.br/pampulha/patrimonio-mundial/historia/pampulha-1943)
+
+
+## 20 / Casa do Baile
+
+Belo Horizonte’s history describes two internally tangent circles, a sinuous canopy and a small concrete bridge. The original programme was a restaurant with a dance floor. The municipality dates opening to 1942, while the ensemble inauguration was in 1943. Use the early-1940s period consistently. Credit Burle Marx for landscape and Albino Froufe for this building’s structural design. Do not automatically attribute every Pampulha structure to Joaquim Cardozo.
+
+Sources: [Belo Horizonte, Casa do Baile history](https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura/museus/casadobaile/historico)
+
+
+## 21 / Golf Yacht Club
+
+The official Belo Horizonte portal identifies a butterfly roof, glazed surfaces, ramps and brises-soleil, and describes the nautical intent of the terrace. The original Golf Yacht Club later became the Yacht Tennis Club. Its privatisation in 1961 is relevant to social access. Do not use the Niemeyer Foundation’s 1962 Yacht Club entry to date the original early-1940s building: it concerns a later project. Current admission conditions should be checked separately before a visit.
+
+Sources: [Belo Horizonte, Yacht Tennis Club](https://portalbelohorizonte.com.br/pampulha/conjunto-moderno/iate-tenis-clube), [UNESCO, Pampulha Modern Ensemble](https://whc.unesco.org/en/list/1493/)
+
+
+## 22 / São Francisco de Assis
+
+The DOCX identifies the parabolic vaults and Portinari’s exterior tiles. The official municipal account confirms the church within the ensemble. Azulejos connect a local artistic language and ceramic tradition to modern concrete. The architecture, landscape and artwork form a collaboration. Use the early-1940s period rather than assuming every religious milestone occurred at the 1943 ensemble opening.
+
+Sources: [Belo Horizonte, São Francisco church](https://portalbelohorizonte.com.br/pampulha/conjunto-moderno/igreja-sao-francisco-assis), [Belo Horizonte, Pampulha inauguration in 1943](https://portalbelohorizonte.com.br/pampulha/patrimonio-mundial/historia/pampulha-1943)
+
+
+## 23 / Architecture, landscape and art work together
+
+The DOCX links organic promenades, regional ceramic traditions and modern form. Pampulha’s UNESCO inscription in 2016 recognises this synthesis. Joaquim Cardozo contributed engineering within the ensemble, but Casa do Baile’s documented structural engineer is Albino Froufe. The commissioned leisure landscape also had social and patronage contexts. Critical appraisal should test route continuity, present access, maintenance and the relationship between heritage and daily use.
+
+Sources: [Belo Horizonte, Pampulha inauguration in 1943](https://portalbelohorizonte.com.br/pampulha/patrimonio-mundial/historia/pampulha-1943), [UNESCO, Pampulha Modern Ensemble](https://whc.unesco.org/en/list/1493/)
+
+
+## 24 / Two settings, different urban relationships
+
+This is an interpretive comparison rather than a performance score. Brasília offers strong institutional legibility and a monumental composition. Pampulha relates cultural and leisure buildings to a landscape. Both need assessment at walking speed. Neither visual openness nor World Heritage designation proves universal access. Compare the scale, connections and actual programmes before borrowing a formal solution for studio.
+
+Sources: [UNESCO, Brasília World Heritage](https://whc.unesco.org/en/list/445/), [IPHAN, Three Powers Square](https://www.gov.br/iphan/pt-br/assuntos/praca-dos-tres-poderes), [Belo Horizonte, Pampulha inauguration in 1943](https://portalbelohorizonte.com.br/pampulha/patrimonio-mundial/historia/pampulha-1943), [Belo Horizonte, Yacht Tennis Club](https://portalbelohorizonte.com.br/pampulha/conjunto-moderno/iate-tenis-clube)
+
+
+## 25 / Lessons for an urban public project
+
+Connect the case study to ART 501 CO4 and CO5. For an S9 urban public project, document the setting, trace arrival, record users and activities, and explain how form shapes open space. Imageability, figure-ground, activity mapping and pedestrian catchment analysis can support the appraisal. Record observation dates and methods. The checklist helps structure a study without inventing field counts or treating a photograph as a measured access audit.
+
+
+## 26 / Sources and image credits
+
+The DOCX frames the selection and argument. Factual checks use the Pritzker Prize, UNESCO, the legislature, IPHAN, Brazilian government and Belo Horizonte institutions. Corrected points include the 1970 Cathedral and Itamaraty dates, Pampulha conception versus inauguration, collaborative authorship, the casino’s glazed rectangular form, and the flag-replacement claim. The DOCX’s dome meanings are symbolic interpretations. The presentation does not claim a measured equilateral site triangle or an accessibility audit. Photographs and Montserrat retain their attribution and licences.

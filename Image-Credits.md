@@ -1,75 +1,117 @@
-# Photograph and font credits
+# Image credits
 
-## congress-front
+Documentary photographs of actual buildings. Images are resized, converted to WebP and cropped by the layout. The Congress cover uses CSS grayscale. No generated architecture is used.
 
-Author: Mario Roberto Duran Ortiz
-
-Licence: Public domain
-
-[Source and licence details](https://commons.wikimedia.org/wiki/File:Brasilia_Congresso_Nacional_05_2007_221.jpg)
-
-Resized and converted to WebP. The page layout may crop the image. The cover uses a CSS monochrome treatment.
 
 ## portrait
 
-Author: Roger Pic / derivative work: MrPanyGoff
+Roger Pic
+derivative work: MrPanyGoff
 
-Licence: CC0
+CC0
 
-[Source and licence details](https://commons.wikimedia.org/wiki/File:Oscar_Niemeyer,_Pic,_9_-_edit.jpg)
+[Original photograph and licence](https://commons.wikimedia.org/wiki/File:Oscar_Niemeyer,_Pic,_9_-_edit.jpg)
 
-Resized and converted to WebP. The page layout may crop the image. The cover uses a CSS monochrome treatment.
 
-## cathedral
+## congress-front
 
-Author: Mariordo (Mario Roberto Durán Ortiz)
+Mario Roberto Duran Ortiz
 
-Licence: CC BY-SA 4.0
+Public domain
 
-[Source and licence details](https://commons.wikimedia.org/wiki/File:Brasilia_Catedral_08_2005_03.jpg)
+[Original photograph and licence](https://commons.wikimedia.org/wiki/File:Brasilia_Congresso_Nacional_05_2007_221.jpg)
 
-Resized and converted to WebP. The page layout may crop the image. The cover uses a CSS monochrome treatment.
 
 ## congress
 
-Author: Cayambe
+Cayambe
 
-Licence: CC BY-SA 3.0
+CC BY-SA 3.0
 
-[Source and licence details](https://commons.wikimedia.org/wiki/File:Brasilia_National_Congress_Buildings.jpg)
+[Original photograph and licence](https://commons.wikimedia.org/wiki/File:Brasilia_National_Congress_Buildings.jpg)
 
-Resized and converted to WebP. The page layout may crop the image. The cover uses a CSS monochrome treatment.
+
+## cathedral
+
+Mariordo (Mario Roberto Durán Ortiz)
+
+CC BY-SA 4.0
+
+[Original photograph and licence](https://commons.wikimedia.org/wiki/File:Brasilia_Catedral_08_2005_03.jpg)
+
 
 ## pampulha-wide
 
-Author: Augusto Dewas
+Augusto Dewas
 
-Licence: CC BY-SA 4.0
+CC BY-SA 4.0
 
-[Source and licence details](https://commons.wikimedia.org/wiki/File:Igreja_S%C3%A3o_Francisco_de_Assis-_Pampulha-_BH-MG.jpg)
+[Original photograph and licence](https://commons.wikimedia.org/wiki/File:Igreja_S%C3%A3o_Francisco_de_Assis-_Pampulha-_BH-MG.jpg)
 
-Resized and converted to WebP. The page layout may crop the image. The cover uses a CSS monochrome treatment.
 
-## niteroi-side
+## church-tiles
 
-Author: Donatas Dabravolskas
+Eugenio Hansen, OFS
 
-Licence: CC BY-SA 4.0
+CC BY-SA 4.0
 
-[Source and licence details](https://commons.wikimedia.org/wiki/File:Contemporary_Art_Museum_in_Niteroi_City_4.jpg)
+[Original photograph and licence](https://commons.wikimedia.org/wiki/File:Igreja_S%C3%A3o_Francisco_na_Pampulha_18.JPG)
 
-Resized and converted to WebP. The page layout may crop the image. The cover uses a CSS monochrome treatment.
 
-## ibirapuera
+## planalto
 
-Author: Werner Haberkorn/Fotolabor/Museu Paulista da USP
+Annemariebr at English Wikipedia
 
-Licence: Public domain
+Public domain
 
-[Source and licence details](https://commons.wikimedia.org/wiki/File:Werner_Haberkorn_-_Vista_pontual_da_Marquise_do_Parque_do_Ibirapuera._S%C3%A3o_Paulo-SP_2.jpg)
+[Original photograph and licence](https://commons.wikimedia.org/wiki/File:Palacio_do_Planalto.jpeg)
 
-Resized and converted to WebP. The page layout may crop the image. The cover uses a CSS monochrome treatment.
+
+## stf
+
+Cayambe
+
+CC BY-SA 3.0
+
+[Original photograph and licence](https://commons.wikimedia.org/wiki/File:Brasilia_Supreme_Federal_Court_of_Brazil_2009.jpg)
+
+
+## itamaraty
+
+Luis Dantas
+
+Public domain
+
+[Original photograph and licence](https://commons.wikimedia.org/wiki/File:Itamaraty_01.jpg)
+
+
+## casino
+
+Rafael Lemieszek Pinheiro
+
+CC BY-SA 4.0
+
+[Original photograph and licence](https://commons.wikimedia.org/wiki/File:Fachada_do_Museu_de_Arte_da_Pampulha.jpg)
+
+
+## baile
+
+Eduardo Gabão
+
+CC BY-SA 4.0
+
+[Original photograph and licence](https://commons.wikimedia.org/wiki/File:Casa_do_Baile_-_Pampulha_BH.jpg)
+
+
+## yacht
+
+Rkieferbaum
+
+CC BY-SA 4.0
+
+[Original photograph and licence](https://commons.wikimedia.org/wiki/File:Iate_T%C3%AAnis_Clube_-_Belo_Horizonte_-_20190616162856.jpg)
+
 
 ## Montserrat
 
-Unmodified variable TrueType font from [Google Fonts](https://github.com/google/fonts/tree/main/ofl/montserrat), under the SIL Open Font License 1.1. The licence accompanies the font.
+Embedded unmodified font, SIL Open Font License 1.1. [Google Fonts source](https://github.com/google/fonts/tree/main/ofl/montserrat). The package includes the licence.

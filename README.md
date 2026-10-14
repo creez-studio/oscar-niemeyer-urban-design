@@ -1,54 +1,35 @@
-# Oscar Niemeyer / Urban Design
+# Oscar Niemeyer / ART 501 Urban Design
 
-An interactive presentation for **Irfan Nazar, BJK22AR007**, B.Arch Semester 9, Bishop Jerome Institute.
+Irfan Nazar, BJK22AR007. B.Arch Semester 9, Bishop Jerome Institute.
 
-The presentation addresses **ART 501, Module V**, in the supplied B.Arch 2021 Scheme syllabus. Its focus is the critical appraisal of urban public architecture through spatial layers, with relevance to S9 design studio and CO4 / CO5. The syllabus does not prescribe a slide count. This presentation uses 20 slides for an approximately 18–22 minute discussion.
+Revised 14 October 2026 from the Oscar Niemeyer section of UD-M5-P2, pp.6–8. The presentation contains 26 slides with Montserrat, light backgrounds and a print edition on white paper.
 
-## Website and files
+## Open the presentation
 
-- `index.html` is the GitHub Pages entry point.
-- `Oscar-Niemeyer.html` is the same standalone presentation for offline use. Photographs, Montserrat and application code are embedded.
-- `Oscar-Niemeyer.pdf` is the static 20-slide version. It preserves the visual layout as rendered artwork, includes slide bookmarks and clickable source and photograph links, and includes speaker notes as PDF comments. Use HTML for selectable text, accessibility and interactive controls.
-- `Presenter-Notes.md` provides the speaking notes and evidence caveats in plain text.
-- `Image-Credits.md` lists the photograph sources and licences. The website also includes a credits panel.
-- `assets/` retains the credited photographs and the unmodified font and licence for reuse or future editing. The standalone HTML does not require this directory to display its content.
+[Public interactive presentation](https://creez-studio.github.io/oscar-niemeyer-urban-design/)
 
-The PDF download button needs the PDF in the same folder as the HTML. External reference links require an internet connection.
+`index.html` is the GitHub Pages entry point. `Oscar-Niemeyer.html` contains the same presentation for offline use. Photographs, font and code are embedded. Keep `Oscar-Niemeyer.pdf` beside the HTML for the PDF download button. External sources require internet access.
 
-## Presentation controls
+## Coverage
 
-Use **Previous / Next**, arrow keys or a swipe to navigate. **Menu** contains slide contents, presenter notes, reading view, downloads, print, image credits, motion controls and a three-question knowledge check. N opens notes and M opens the menu. Home and End move to the first and last slides.
+Theoretical foundations and spatial philosophy, the methodological toolkit, Costa’s Plano Piloto, Three Powers Square and National Congress, Planalto, Supreme Federal Court, Cathedral, Itamaraty, and the Pampulha ensemble. Each Pampulha core building has its own study: Casino, Casa do Baile, Golf Yacht Club and São Francisco de Assis Church. Comparison and critical appraisal connect these cases to ART 501 Module V, CO4 / CO5 and S9 studio.
 
-Select the urban-design lenses on slide 2. Select a project on slide 5. Click the Congress forms on slide 9. Switch diagram layers on slide 10. Scrub or play the approach sequence on slide 11. On narrow screens, diagrams can be scrolled horizontally, and the comparison table becomes a readable sequence of labelled rows.
+## Printing
 
-Motion follows the device's reduced-motion setting by default. The menu lets the visitor turn motion on or off. The approach animation stops when its slide is left or the document becomes hidden. The checklist is a learning aid and does not send data anywhere.
+The PDF contains 26 A4 landscape pages (297 × 210 mm), one slide per page. Print on A4, landscape, at actual size or fit to printable area. The composition includes white margins and has no black slide backgrounds. Interactive states become fixed explanatory content. This high-resolution visual PDF includes bookmarks, clickable sources and presenter notes as comments. Use HTML for selectable text, screen-reader access and interactive controls. The separate notes file contains the full speaking notes and source links.
 
-## Syllabus coverage
+## Controls
 
-| Syllabus focus | Presentation coverage |
-| --- | --- |
-| Module V: global architecture works of Oscar Niemeyer | Biography, architectural language, selected works and comparisons, slides 3–18 |
-| Module V: public-project case study and critical appraisal | National Congress, slides 6–12, with comparisons and critical synthesis in slides 13–18 |
-| CO4: urban-design dimensions and project definition | Five urban-design lenses, spatial diagrams, movement and studio checklist, slides 2, 7, 10–12 and 19 |
-| CO5: research and analysis through cases, with architectural and built components | Congress, Cathedral, Pampulha, MAC Niterói and Ibirapuera, slides 8–18 |
-| Supporting Module I terminology | Scale, skyline, figure-ground, massing, enclosure and urban form |
-| Supporting Module III theory | Imageability and the reading of public experience, without claiming a reproduction of a particular author's text |
-| Supporting Module IV methods | Figure-ground, visual and permeability reading. Notes distinguish secondary documentation from field observation. |
+Previous / Next, arrow keys, Home / End, and swipe navigate. Menu contains contents, presenter notes, reading mode, motion controls, fullscreen, downloads, print, credits and the quiz. N opens notes and M opens the menu.
 
-The supplied syllabus, pp.2–6, provides the requirements. The presentation's checklist and analytical questions are original teaching material. They are not quoted as mandatory wording from the syllabus.
+Slide 2 selects urban-design lenses. Slide 10 selects Congress forms. Slide 11 switches figure-ground layers. Slide 12 scrubs or plays a conceptual approach sequence. Slide 25 contains a studio checklist. Narrow screens can scroll diagrams horizontally and read the comparison table as labelled rows. Motion respects the device’s reduced-motion setting and stops when its slide is left.
 
-## Evidence and limits
+## Factual clarification
 
-The main references are the Pritzker Prize, UNESCO, Brazil's legislature, municipal institutions and the Brazilian Institute of Museums. The presentation separates Lúcio Costa's city plan from Oscar Niemeyer's civic buildings. The Ibirapuera discussion credits the landscape and architectural teams separately.
+The DOCX selects the content. Institutional references support the facts. Costa designed the city plan and Niemeyer its major civic buildings. Brasília’s civic core opened in 1960, while the Cathedral and Itamaraty completed in 1970. Pampulha was conceived in 1940, its ensemble inaugurated in 1943 and inscribed by UNESCO in 2016. Architecture, landscape, art and structural engineering have separate authors. Casa do Baile’s structural engineer was Albino Froufe.
 
-Photographs document actual projects. Diagrams are original relational schematics, not measured plans, construction drawings or verified visitor routes. The walkthrough's percentage is a conceptual position, not a distance or travel time. The presentation does not invent visitor counts, accessibility measurements or post-occupancy performance data.
+The national flag is replaced in a monthly ceremony. The Defence Ministry describes a 20 × 14 m flag weighing up to 40 kg, rather than the document’s 90 kg and never-replaced cloth. The plaza sketch is relational and does not establish a measured equilateral triangle. The Senate dome and Chamber bowl are programme facts. Their introspection/openness meanings are interpretations. Photographs do not establish visitor counts, universal accessibility or current entry conditions.
 
-Critical observations about shade, crossings, comfort and public occupation are questions for assessment. Brasília's wider transport and social issues cannot be attributed to one building or one architect. The historic Ibirapuera photograph does not establish its current condition or activities.
+## Files and attribution
 
-Research checked 12 October 2026. A full source list is on slide 20. Further reading listed by the syllabus includes Kevin Lynch, *The Image of the City* (1960), Gordon Cullen, *The Concise Townscape* (1961), and Carmona and colleagues, *Public Places Urban Spaces* (2010).
-
-## Attribution and hosting
-
-Photographs retain the licences listed in `Image-Credits.md`. Resizing, WebP conversion and layout cropping are disclosed. The Congress cover photograph uses a CSS monochrome treatment. Original analytical diagrams and text accompany the images. Montserrat is included under the SIL Open Font License 1.1, with its unmodified licence file.
-
-GitHub Pages hosts the public website from the main branch root. No build process, paid hosting or visitor account is required. This is a student presentation and is not an official website of the institutions referenced.
+`Presenter-Notes.md` and `Image-Credits.md` accompany the HTML and PDF. The assets retain source photographs and the Montserrat licence. Diagrams explain spatial relationships and are not measured plans or verified routes. The site collects no student responses or personal data. GitHub Pages publishes from the main branch root.
